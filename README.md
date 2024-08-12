@@ -1,5 +1,3 @@
-# Proyectos_MatLab
+# Characterization of a classroom by Impulse Response
 
-# Caracterización de un aula a partir de la medición de respuesta impulsiva utilizando Sine Sweep
-
-  Se desarrolló un programa para estudiar una serie de parámetros acústicos de un aula destinada a dar clases. A partir de un relevamiento y mediciones in situ, se procede a analizar con el programa en cuestión si el recinto es apto para desempeñar actividades que incluyen el habla. 
+  A program was developed to study a series of acoustic parameters of a classroom used for teaching. Based on a survey and on-site measurements, the program is used to analyze whether the room is suitable for activities involving speech. 
